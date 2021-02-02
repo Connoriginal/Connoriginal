@@ -9,16 +9,16 @@
 ### Projects
 ---
 * Hotel Management System (2020.09 ~ 2020.12)
-> Team project using NodeJs + Express + Mysql 
-[Github Repository](https://github.com/Connoriginal/Hotel_Management)
+> Team project using NodeJs + Express + Mysql <br> 
+> [Github Repository](https://github.com/Connoriginal/Hotel_Management)
 
 * Drawing Lots Application (2020.05 ~ 2020.06)
-> Team project using Android Studio and Opensource 
-[Github Repository](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided)
+> Team project using Android Studio and Opensource <br>
+> [Github Repository](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided)
 
 * BlackJack (2017.05 ~ 2017.06)
-> Team project using simple Python GUI 
-[Github Repository](https://github.com/Connoriginal/Learning-Python)
+> Team project using simple Python GUI <br> 
+> [Github Repository](https://github.com/Connoriginal/Learning-Python)
 
 ### Awards
 ---
@@ -40,6 +40,7 @@
 <br>
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=Connoriginal&show_icons=true&count_private=truedark&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Connoriginal&theme=dark&count_private=true&layout=compact)
 <br><br><br>
 
