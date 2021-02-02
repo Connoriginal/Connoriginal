@@ -8,6 +8,9 @@
 
 ### Projects
 ---
+* Game 'Invader' develop (2020.10 ~ 2020.12)
+> Team project using Jira + Travis CI + Java  <br>
+> [Github Repository](https://github.com/SWdevelop-569/Invaders)
 * Hotel Management System (2020.09 ~ 2020.12)
 > Team project using NodeJs + Express + Mysql <br> 
 > [Github Repository](https://github.com/Connoriginal/Hotel_Management)
