@@ -1,7 +1,8 @@
 ## Hi, I'm Taeyoon Kwon
 ---
 
-### Hi, Im a Junior in Hanyang University(Erica). I'm majoring Computer Science.
+### Hi, Im a Junior in Hanyang University(Erica).
+### I'm majoring Computer Science.
 ---
 
 <br>
