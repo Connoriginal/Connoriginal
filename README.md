@@ -24,17 +24,6 @@
 > Team project using simple Python GUI <br> 
 > [Github Repository](https://github.com/Connoriginal/Learning-Python)
 
-### Awards
----
-* UCPC2020 본선 진출
-* 한양대학교 ERICA 2017 Software-Up 우수상
-
-### Work Experience
----
-* 투썸플레이스(카페 스탭) (2019.09 ~ )
-* 육군 병장 만기전역 (제 3707부대) (2018.01 ~ 2019.09)
-* 소프트웨어학과 부 학년대표 (2017.03 ~ 2017.12)
-* 소프트웨어학과 학생회 (2017.03 ~ 2017.12)
 
 ### Language
 ---
