@@ -1,8 +1,7 @@
-## Hi, I'm Taeyoon Kwon
-<br/>
+## wassup i'm Taeyoon, you can call me Connor 
 
-### Hi, Im a Undergraduate student in Hanyang University(Erica).
-### I'm majoring Computer Science.
+### Undergraduate student in Hanyang University(Erica).
+### Enjoy studying DL expectially NLP
 
 
 <br>
