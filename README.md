@@ -1,7 +1,7 @@
 ## wassup i'm Taeyoon, you can call me Connor 
 
 ### Undergraduate student in Hanyang University(Erica).
-### Enjoy studying DL expectially NLP
+### Enjoy studying DL especially NLP
 
 
 <br>
