@@ -1,18 +1,21 @@
-## wassup i'm Taeyoon, you can call me Connor 
+## Taeyoon (Connor) Kwon, 권태윤
 
-### Undergraduate student in Hanyang University(Erica).
-### Enjoy studying DL especially NLP
+### About me.
+Hi! I am currently a first-year M.S. student at the Data Intelligence (DLI) Lab at Yonsei University, advised by both prof. Jinyoung Yeo and prof. Dongha Lee. 
+<br>
+My research interests lie in understanding the limitations of large language models (LLMs) and exploring their potential to overcome these challenges.
+
 
 
 <br>
-<br>
+### Contact me freely : kwonconnor101@yonsei.ac.kr
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=Connoriginal&show_icons=true&count_private=truedark&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Connoriginal&theme=dark&count_private=true&layout=compact)
 <br><br><br>
 
-### Contact me freely : kwonconnor101@gmail.com
+
 <!--
 **Connoriginal/Connoriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
