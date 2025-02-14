@@ -1,9 +1,8 @@
 ## Taeyoon (Connor) Kwon, 권태윤
 
 ### About me.
-Hi! I am currently a first-year M.S. student at the Data Intelligence (DLI) Lab at Yonsei University, advised by both prof. Jinyoung Yeo and prof. Dongha Lee. 
-<br>
-My research interests lie in understanding the limitations of large language models (LLMs) and exploring their potential to overcome these challenges.
+Hi! I am currently a M.S. student at the LangAGI Lab at Yonsei University, advised by prof. Jinyoung Yeo.
+
 
 
 
